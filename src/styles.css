@@ -1,0 +1,141 @@
+* {
+  margin: 0;
+  padding: 0;
+  position: relative;
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.Nav {
+  background-color: blue;
+  margin: 0;
+  padding: 0;
+  height: 50px;
+  list-style: none;
+  display: flex;
+  align-items: center;
+  justify-content: start;
+}
+
+.navbar {
+  width: 80%;
+  margin: 0 auto;
+  display: flex;
+}
+
+/* left NavBar */
+.LeftNav {
+  display: flex;
+  flex-basis: 60%;
+  align-items: center;
+}
+
+.BrandName {
+  width: 29%;
+  display: flex;
+}
+.explore {
+  font-size: 12px;
+  display: flex;
+  color: white;
+}
+.explore > p {
+  text-decoration: underline;
+}
+.star {
+  width: 50%;
+  margin: 0;
+  padding: 0;
+  margin-right: 30%;
+}
+
+.search {
+  display: flex;
+  position: relative;
+  align-content: center;
+  align-items: center;
+}
+.searchinput {
+  width: 500px;
+  padding: 1%;
+  display: flex;
+  justify-content: flex-end;
+  border-radius: 2px;
+}
+.searchicon {
+  position: absolute;
+  width: 3%;
+
+  right: 1%;
+}
+/* Right NavBar */
+
+.RightNavBar {
+  display: flex;
+  flex-basis: 40%;
+  justify-content: flex-end;
+}
+.Login {
+  margin: auto 20%;
+  padding: 0.7%;
+  background-color: #fff;
+  border-radius: 5%;
+}
+.Cart {
+  margin: auto 20%;
+  padding: 0.7%;
+  background-color: #fff;
+  border-radius: 5%;
+}
+
+/* filter */
+.MainPage {
+  display: flex;
+  width: 90%;
+  margin: 0 auto;
+
+  /* position: relative; */
+}
+.Filter {
+  display: flex;
+  flex-basis: 30%;
+  flex-direction: column;
+
+  margin: 5% auto;
+}
+
+.brands {
+  display: grid;
+  margin: 10% 0;
+  font-size: 10px;
+  flex-direction: column;
+}
+.brandcheck {
+  display: flex;
+  flex-direction: column;
+}
+.gender {
+  margin-top: 10px;
+}
+#color {
+  margin: 30px 0;
+}
+/* ProductPage */
+
+.ProductPage {
+  display: grid;
+  flex-basis: 98%;
+  margin-left: 5%;
+}
+.product {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  position: relative;
+  grid-column-gap: 5px;
+}
+.proimg {
+  width: 90%;
+}

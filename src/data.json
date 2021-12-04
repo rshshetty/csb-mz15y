@@ -1,0 +1,81 @@
+[
+  {
+    "name": "Solid Men Hooded Neck Black T-Shirt",
+    "id": "11",
+    "photo": "https://rukminim1.flixcart.com/image/793/952/kjhgzgw0-0/t-shirt/h/s/2/xxl-tblhdful-d10-tripr-original-imafzfk2cxynenfd.jpeg?q=50",
+    "category": "topwear",
+    "color": "black",
+    "size": "S",
+    "gender": "men",
+    "brand": "TRIPR",
+    "price": "₹228"
+  },
+  {
+    "name": "Printed Men Round Neck White T-Shirt",
+    "id": "2",
+    "photo": "https://rukminim1.flixcart.com/image/793/952/kfk0e4w0-0/t-shirt/e/g/g/xxl-twtrn-justrelax-tripr-original-imafvzjm2ewkhdcd.jpeg?q=50",
+    "category": "topwear",
+    "color": "white",
+    "size": "M",
+    "gender": "men",
+    "brand": "TRIPR",
+    "price": "₹550"
+  },
+  {},
+  {
+    "name": "Slim Men Blue Jeans",
+    "id": "3",
+    "photo": "https://rukminim1.flixcart.com/image/793/952/k73nlow0/jean/m/r/a/42-tbujean-torn2-tripr-original-imafpfykzyygfvss.jpeg?q=50",
+    "category": "bottomwear",
+
+    "color": "blue",
+    "size": "L",
+    "gender": "men",
+    "brand": "JOCKEY",
+    "price": "₹1000"
+  },
+  {
+    "name": "Regular Fit Checkered Casual Shirt",
+    "id": "4",
+    "photo": "https://rukminim1.flixcart.com/image/793/952/shirt/f/e/y/1469141-roadster-s-original-imaemy97bmysfyjh.jpeg?q=50",
+    "category": "topwear",
+    "color": "green",
+    "size": "S",
+    "gender": "women",
+    "brand": "TRIPR",
+    "price": "₹750"
+  },
+  {
+    "name": " Solid Spread Regular Fit Collar Casual Shirt",
+    "id": "5",
+    "photo": "https://rukminim1.flixcart.com/image/793/952/jr0y9ow0/shirt/b/t/w/xl-funfas-0001-funday-fashion-original-imafcwzzmfh8mvx8.jpeg?q=50",
+    "category": "bottomwear",
+    "color": "black",
+    "size": "M",
+    "gender": "women",
+    "brand": "JOCKEY",
+    "price": "₹650"
+  },
+  {
+    "name": "Cotton Blend Trousers Regular Fit Women White",
+    "id": "6",
+    "photo": "https://rukminim1.flixcart.com/image/793/952/ke1pnrk0-0/trouser/f/r/o/s-jd-jp-trou-white-me-craft-original-imafutggvemne9zw.jpeg?q=50",
+    "category": "bottomwear",
+    "color": "white",
+    "size": "L",
+    "gender": "women",
+    "brand": "Me Craft",
+    "price": "₹1500"
+  },
+  {
+    "name": "Flared Women Purple Polyester Viscose Blend Trousers",
+    "id": "7",
+    "photo": "https://rukminim1.flixcart.com/image/793/952/krce64w0/trouser/y/y/y/30-ttp0000695-tokyo-talkies-original-imag55gcqyuurzsh.jpeg?q=50",
+    "category": "topwear",
+    "color": "grey",
+    "size": "M",
+    "gender": "women",
+    "brand": "JOCKEY",
+    "price": "₹780"
+  }
+]
